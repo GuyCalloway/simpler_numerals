@@ -1,1 +1,1 @@
-Roman Numerals challenge: approached it thinking about how you would translate numbers to roman numerals in your head rather than a mathematical approach chipping away at the number(my first solution to this problem) and ended up with a much simpler methodology.
+Roman Numerals challenge: approached it thinking about how you would translate numbers to roman numerals in your head rather than a mathematical approach chipping away at the number(my first solution to this problem) and ended up with a much simpler methodology (thanks to input from Alice!).
